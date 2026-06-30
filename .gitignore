@@ -1,0 +1,20 @@
+# ==============================================================================
+# .gitignore — plantilla de perfil de GitHub
+# ==============================================================================
+
+# ── Sistema operativo ─────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Editores / IDE ────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*~
+
+# ── Configuración de IA (solo local, no de cara al usuario) ────────────────
+# Toda la tooling de IA para mantener esta plantilla vive solo en local.
+# No se versiona para que el repo público quede limpio.
+.claude/
+AGENTS.md
+CLAUDE.md
