@@ -1,5 +1,3 @@
-# .github/CODE_OF_CONDUCT.md
-
 # 📜 Código de Conducta
 
 Este proyecto adopta el [Contributor Covenant](https://www.contributor-covenant.org/es/version/2/1/code_of_conduct/) versión 2.1 como base para fomentar una comunidad abierta y acogedora.

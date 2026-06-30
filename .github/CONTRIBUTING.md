@@ -1,43 +1,49 @@
 # 🖇️ Guía de Contribución
 
-¡Gracias por considerar contribuir a este proyecto!
+¡Gracias por considerar contribuir a esta plantilla de perfil de GitHub! 🙌
+
+Este repositorio es una **plantilla de `README.md`** pensada para que cualquier persona
+la copie a su repositorio especial `usuario/usuario` y personalice su perfil. Las
+contribuciones que más ayudan son mejoras de redacción, nuevos badges, correcciones de
+formato y traducciones más claras.
 
 ## 🚀 Cómo empezar
 
-1. **Haz un fork del repositorio**
+1. **Haz un fork del repositorio.**
 2. **Clona tu fork** en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/tu-usuario/tu-fork.git
+   cd tu-fork
    ```
-3. **Crea una rama para tu cambio**:
+3. **Crea una rama para tu cambio:**
    ```bash
-   git checkout -b feature/nombre-de-tu-cambio
+   git checkout -b docs/descripcion-de-tu-cambio
    ```
-4. **Realiza tus cambios** y haz commit:
+4. **Realiza tus cambios** y haz commit siguiendo
+   [Conventional Commits](https://www.conventionalcommits.org/es/):
    ```bash
-   git commit -m "Agrega nueva funcionalidad"
+   git commit -m "docs(readme): mejora la sección de tecnologías"
    ```
-5. **Haz push a tu rama**:
+5. **Haz push a tu rama:**
    ```bash
-   git push origin feature/nombre-de-tu-cambio
+   git push origin docs/descripcion-de-tu-cambio
    ```
-6. **Abre un Pull Request**
+6. **Abre un Pull Request.**
 
-## ✅ Requisitos del código
+## ✅ Qué cuidar
 
-- Sigue el estilo de código definido en el proyecto (`black`, `flake8`)
-- Escribe pruebas si agregas o modificas funciones
-- Asegúrate de que las pruebas pasen antes de hacer PR:
-
-```bash
-pytest
-```
+- **Coherencia del Markdown:** encabezados bien anidados, listas y bloques de código
+  correctos. Verifica que el README renderice bien en GitHub antes de abrir el PR.
+- **Badges consistentes:** usa [shields.io](https://shields.io) con
+  `style=for-the-badge` y mantén el estilo (`logo`, `logoColor`) de los badges vecinos.
+- **Placeholders, no datos reales:** esto es una plantilla. Mantén los marcadores
+  (`✏️` para editar, `💡` para ejemplos) y no introduzcas información personal real.
+- **Español claro:** todo el contenido va en español, con un tono cercano y didáctico.
 
 ## 🤝 Buenas prácticas
 
-- Mantén tus cambios enfocados (una sola funcionalidad por PR)
-- Describe claramente qué haces en tus commits y PRs
-- Sé respetuoso con los comentarios y sugerencias del equipo
+- Mantén cada PR enfocado en un solo cambio.
+- Describe claramente qué cambias y por qué en tus commits y PRs.
+- Sé respetuoso con los comentarios y sugerencias.
 
 ¡Tu ayuda es bienvenida! 🙌
