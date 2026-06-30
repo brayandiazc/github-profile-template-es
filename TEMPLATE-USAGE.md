@@ -29,15 +29,14 @@ git init
 
 ## 3. Personalizar el README
 
-1. Reemplaza los textos marcados con **✏️** por tu información.
-2. Borra los ejemplos marcados con **💡** cuando ya no los necesites.
-3. Sustituye **todos** los placeholders por tus datos:
-   - `[Tu Nombre]`, `tuusuario`, `tuemail@ejemplo.com`, `tusitio.dev`, enlaces de proyectos.
-4. En **Tecnologías Clave**, deja solo los badges que uses y añade los que falten desde
-   [shields.io](https://shields.io) manteniendo `style=for-the-badge`.
-5. En **Estadísticas de GitHub**, cambia `tuusuario` por tu usuario. Puedes ajustar el
-   `theme=` o eliminar la sección si no la quieres.
-6. En **Contacto**, deja solo los badges que uses y apunta los enlaces a tus perfiles.
+1. Reemplaza los textos marcados con **✏️** y los que van entre `[corchetes]` por tu información.
+2. Sustituye **todos** los placeholders por tus datos:
+   - `[Tu Nombre]`, tu rol, `tuusuario`, `tuemail@ejemplo.com`, `tusitio.dev`, enlaces de proyectos.
+3. En **Proyectos actuales** y **Experiencia**, añade tus entradas (o elimina "Experiencia" si no aplica).
+4. En **Stack Tecnológico**, deja solo las categorías y tecnologías que uses; añade las que falten.
+5. En **Encuéntrame**, deja solo los badges de las redes que uses y apunta los enlaces a tus perfiles.
+   Los badges usan `style=flat`; puedes cambiar `logo` y colores en [shields.io](https://shields.io).
+6. En **Contacto**, actualiza tu email y enlaces.
 7. Borra el **comentario de instrucciones** del inicio del README y este archivo.
 
 ## 4. Verifica antes de publicar
