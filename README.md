@@ -1,3 +1,12 @@
+<!--
+  ✏️ CÓMO USAR ESTA PLANTILLA
+  1. Crea un repositorio con el MISMO nombre que tu usuario de GitHub (ej. tuusuario/tuusuario).
+  2. Copia este README.md a ese repositorio: se mostrará automáticamente en tu perfil.
+  3. Reemplaza los textos marcados con ✏️ y elimina los ejemplos marcados con 💡.
+  4. Sustituye todos los placeholders (tuusuario, tuemail@ejemplo.com, etc.) por tus datos.
+  5. Borra este comentario cuando termines.
+-->
+
 # 👋 Hola, soy [Tu Nombre]
 
 ✏️ Usa este espacio para presentarte brevemente. Habla sobre tu rol actual, tus intereses profesionales, experiencia, logros o metas. Este resumen es la primera impresión para quienes visiten tu perfil.
@@ -5,6 +14,15 @@
 💡 **Ejemplo:**
 
 Soy un **Desarrollador Full Stack** con experiencia en tecnologías como **React, Node.js y PostgreSQL**. Me apasiona crear aplicaciones web eficientes y escalables, y actualmente estoy en búsqueda de nuevos retos donde seguir aprendiendo y creciendo.
+
+## 🌱 Actualmente
+
+✏️ Cuenta en qué estás enfocado ahora mismo. Puedes mantener, editar o eliminar estas líneas.
+
+- 🔭 Trabajando en: **[tu proyecto actual]**
+- 🌱 Aprendiendo: **[tecnología o tema]**
+- 👯 Buscando colaborar en: **[tipo de proyectos]**
+- 💬 Pregúntame sobre: **[tus temas fuertes]**
 
 ## 💻 Tecnologías Clave
 
@@ -46,12 +64,23 @@ App de gestión de tareas colaborativa en tiempo real.
 API REST para explorar y filtrar películas con autenticación JWT.  
 **Tecnologías:** Node.js, Express, MongoDB
 
+## 📊 Estadísticas de GitHub
+
+✏️ Estas tarjetas se generan solas a partir de tu actividad. Reemplaza `tuusuario` por tu nombre de usuario de GitHub. Si no las quieres, elimina esta sección completa.
+
+> ℹ️ Usan el servicio externo [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Puedes cambiar el parámetro `theme=` por otro tema (p. ej. `dark`, `radical`, `tokyonight`).
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=default)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=default)
+
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=default)
+
 ## 📫 Contacto
 
-✏️ Agrega tus medios de contacto preferidos. Puedes usar solo texto, íconos o badges.
+✏️ Reemplaza los enlaces de cada badge por tus datos reales. Mantén solo los que uses y elimina el resto.
 
-```md
-- 📧 Correo: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- 🌐 Portafolio: [tusitio.dev](https://tusitio.dev)
-```
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tusitio.dev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tuusuario)
