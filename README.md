@@ -21,7 +21,7 @@
 
 ## 🎓 Experiencia
 
-✏️ Opcional. Úsala si tienes trayectoria relevante (empresas, docencia, comunidades). Si no, elimina la sección.
+✏️ Opcional. Úsala para destacar tu trayectoria (empresas, proyectos, comunidades, etc.). Si no, elimina la sección.
 
 - **[Empresa o Institución](https://ejemplo.com)** — [Tu rol o aporte]
 - **[Empresa o Institución](https://ejemplo.com)** — [Tu rol o aporte]
@@ -45,8 +45,6 @@
 [![Website](https://img.shields.io/badge/Web-tusitio.dev-000?style=flat&logo=google-chrome)](https://tusitio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tuusuario-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/tuusuario)
 [![GitHub](https://img.shields.io/badge/GitHub-tuusuario-181717?style=flat&logo=github)](https://github.com/tuusuario)
-[![Dev.to](https://img.shields.io/badge/Dev.to-tuusuario-0A0A0A?style=flat&logo=dev.to)](https://dev.to/tuusuario)
-[![YouTube](https://img.shields.io/badge/YouTube-@tuusuario-FF0000?style=flat&logo=youtube)](https://youtube.com/@tuusuario)
 
 ## 💬 Contacto
 

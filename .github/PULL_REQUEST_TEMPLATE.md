@@ -17,7 +17,7 @@ Resumen de los cambios y qué mejoran en la plantilla.
 ## Checklist
 
 - [ ] El Markdown renderiza correctamente en GitHub
-- [ ] Los badges usan shields.io con `style=for-the-badge` y estilo consistente
+- [ ] El stack va en listas de texto; los badges sociales usan shields.io con `style=flat`
 - [ ] Se mantienen los placeholders (no hay datos personales reales)
 - [ ] El tono sigue la línea didáctica de la plantilla (✏️ instrucción / 💡 ejemplo)
 - [ ] Auto-revisión completada
