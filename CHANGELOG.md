@@ -7,6 +7,8 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-06-30
+
 ### Changed
 
 - Fusiona las secciones **Encuéntrame** y **Contacto** en una sola sección **Contacto**
@@ -25,5 +27,6 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 - Plantillas de issues (`.github/ISSUE_TEMPLATE/`) y de pull request.
 - `.editorconfig`, `.gitignore` y este `CHANGELOG.md`.
 
-[Unreleased]: https://github.com/brayandiazc/github-profile-template-es/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/brayandiazc/github-profile-template-es/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/brayandiazc/github-profile-template-es/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/brayandiazc/github-profile-template-es/releases/tag/v1.0.0
