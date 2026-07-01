@@ -35,7 +35,7 @@ formato y traducciones más claras.
 - **Coherencia del Markdown:** encabezados bien anidados, listas y bloques de código
   correctos. Verifica que el README renderice bien en GitHub antes de abrir el PR.
 - **Estilo consistente:** el stack tecnológico va en listas de texto agrupadas por
-  categoría (no badges). Los badges sociales de "Encuéntrame" usan
+  categoría (no badges). Los badges sociales de "Contacto" usan
   [shields.io](https://shields.io) con `style=flat`; mantén ese estilo.
 - **Placeholders, no datos reales:** esto es una plantilla. Mantén los marcadores
   (`✏️` para editar, `💡` para ejemplos) y no introduzcas información personal real.

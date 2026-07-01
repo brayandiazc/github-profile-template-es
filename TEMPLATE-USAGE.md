@@ -34,10 +34,9 @@ git init
    - `[Tu Nombre]`, tu rol, `tuusuario`, `tuemail@ejemplo.com`, `tusitio.dev`, enlaces de proyectos.
 3. En **Proyectos actuales** y **Experiencia**, añade tus entradas (o elimina "Experiencia" si no aplica).
 4. En **Stack Tecnológico**, deja solo las categorías y tecnologías que uses; añade las que falten.
-5. En **Encuéntrame**, deja solo los badges de las redes que uses y apunta los enlaces a tus perfiles.
+5. En **Contacto**, deja solo los badges de las redes que uses (incluido el de email) y apunta los enlaces a tus perfiles.
    Los badges usan `style=flat`; puedes cambiar `logo` y colores en [shields.io](https://shields.io).
-6. En **Contacto**, actualiza tu email y enlaces.
-7. Borra el **comentario de instrucciones** del inicio del README y este archivo.
+6. Borra el **comentario de instrucciones** del inicio del README y este archivo.
 
 ## 4. Verifica antes de publicar
 

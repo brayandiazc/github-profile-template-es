@@ -38,18 +38,13 @@
 - **IA & Automatización:** [OpenAI, Gemini, LangChain, n8n]
 - **Metodologías:** [Agile/Scrum, TDD, Git/GitHub]
 
-## 📱 Encuéntrame
+## 💬 Contacto
 
 ✏️ Reemplaza los enlaces por tus perfiles y deja solo los que uses.
 
+¿Tienes un proyecto en mente o buscas asesoría técnica? Escríbeme o sígueme aquí:
+
+[![Email](https://img.shields.io/badge/Email-tuemail@ejemplo.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
 [![Website](https://img.shields.io/badge/Web-tusitio.dev-000?style=flat&logo=google-chrome)](https://tusitio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tuusuario-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/tuusuario)
 [![GitHub](https://img.shields.io/badge/GitHub-tuusuario-181717?style=flat&logo=github)](https://github.com/tuusuario)
-
-## 💬 Contacto
-
-¿Tienes un proyecto en mente o buscas asesoría técnica?
-
-📧 [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
-💼 [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-🌐 [tusitio.dev](https://tusitio.dev)

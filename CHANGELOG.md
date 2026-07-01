@@ -7,6 +7,11 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ## [Unreleased]
 
+### Changed
+
+- Fusiona las secciones **Encuéntrame** y **Contacto** en una sola sección **Contacto**
+  (badges sociales + badge de email), evitando enlaces duplicados.
+
 ## [1.0.0] - 2026-06-30
 
 ### Added
